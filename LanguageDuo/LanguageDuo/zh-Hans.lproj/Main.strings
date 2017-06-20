@@ -1,0 +1,18 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "3fd-9t-WK9"; */
+"3fd-9t-WK9.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "个人"; ObjectID = "88W-wN-WPm"; */
+"88W-wN-WPm.title" = "个人";
+
+/* Class = "UITabBarItem"; title = "主页"; ObjectID = "9WI-yS-3wc"; */
+"9WI-yS-3wc.title" = "主页";
+
+/* Class = "UITabBarItem"; title = "个人"; ObjectID = "NEu-a4-ohX"; */
+"NEu-a4-ohX.title" = "个人";
+
+/* Class = "UINavigationItem"; title = "主页"; ObjectID = "otp-kd-5L4"; */
+"otp-kd-5L4.title" = "主页";
+
+// 跟谁手机语言
+"QY7-p2-uaR.text"      =    "跟随手机语言";

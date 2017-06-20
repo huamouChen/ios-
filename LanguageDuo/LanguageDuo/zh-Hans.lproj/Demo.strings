@@ -1,0 +1,13 @@
+/* 
+  Demo.strings
+  LanguageDuo
+
+  Created by 陈华谋 on 2017/6/20.
+  Copyright © 2017年 陈华谋. All rights reserved.
+*/
+
+// 应用内切换语言
+"NowLanguage"   =  "当前语言是：中文";
+"RootTitle"     =  "主页";
+
+
